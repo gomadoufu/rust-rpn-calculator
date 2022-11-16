@@ -10,8 +10,12 @@ clap = { version = "4.0.23", features = ["derive"] }
 
 [[bin]]
 name = "clap-builder"
-path = "src/clap.rs"
+path = "src/clap-builder.rs"
 
 [[bin]]
 name = "clap-derive"
 path = "src/clap-derive.rs"
+
+[[bin]]
+name = "rpn"
+path = "src/rmn.rs"
