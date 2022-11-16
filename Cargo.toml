@@ -18,4 +18,4 @@ path = "src/clap-derive.rs"
 
 [[bin]]
 name = "rpn"
-path = "src/rmn.rs"
+path = "src/rpn.rs"
