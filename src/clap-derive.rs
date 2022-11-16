@@ -1,5 +1,4 @@
 use clap::Parser;
-
 #[derive(Parser)]
 #[command(
     name = "My RPN program",
